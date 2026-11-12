@@ -1,0 +1,5 @@
+git clone https://github.com/Arjon30/Test_GalipKA_ArjonRA.git
+git status
+git add Arjon.txt
+git commit -m "Added Arjon.txt"
+git push
